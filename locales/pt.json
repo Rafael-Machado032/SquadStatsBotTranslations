@@ -2,151 +2,151 @@
   "player_found": {
     "1": {
       "default": "Players Info",
-      "translated": ""
+      "translated": "Informação do Jogador"
     },
     "2": {
       "default": "Found in Game Name:",
-      "translated": ""
+      "translated": "Encontrado o Nome do Jogador:"
     },
     "3": {
       "default": "First seen:",
-      "translated": ""
+      "translated": "Visto pela primeira vez:"
     },
     "4": {
       "default": "Last seen:",
-      "translated": ""
+      "translated": "Visto pela ultima vez:"
     },
     "5": {
       "default": "Steam ID:",
-      "translated": ""
+      "translated": "Stean ID"
     },
     "6": {
       "default": "Eos ID:",
-      "translated": ""
+      "translated": "EOS ID"
     }
   },
   "myweapons": {
     "1": {
       "default": "Squad Top Weapons player stats all-time.",
-      "translated": ""
+      "translated": "Squad Estatísticas Melhores Armas Jogador - Desde o início."
     },
     "2": {
       "default": "Squad Top Weapons player stats for the Last 30 days.",
-      "translated": ""
+      "translated": "Squad Estatísticas Melhores Armas Jogador - Últimos 30 dias."
     },
     "3": {
       "default": "Squad Top Weapons player stats for the Last 7 days.",
-      "translated": ""
+      "translated": "Squad Estatísticas Melhores Armas Jogador - Últimos 7 dias."
     },
     "4": {
       "default": "Squad Top Weapons player stats for the Last 24 hours.",
-      "translated": ""
+      "translated": "Squad Estatísticas Melhores Armas Jogador - Últimas 24 horas."
     },
     "5": {
       "default": "TOP WEAPONS",
-      "translated": ""
+      "translated": "MELHORES ARMAS"
     },
     "6": {
       "default": "Weapon Kills",
-      "translated": ""
+      "translated": "Mortes Inimiga por Arma"
     },
     "7": {
       "default": "Weapon:",
-      "translated": ""
+      "translated": "Arma:"
     },
     "8": {
       "default": "Total of",
-      "translated": ""
+      "translated": "Total de"
     },
     "9": {
       "default": "Kills",
-      "translated": ""
+      "translated": "Mortes Inimiga"
     },
     "10": {
       "default": "Weapon Deaths:",
-      "translated": ""
+      "translated": "Morto por Arma:"
     }
   },
   "serverstats": {
     "1": {
       "default": "Squad server Stats all-time.",
-      "translated": ""
+      "translated": "Squad Estatísticas do servidor - Desde o início"
     },
     "2": {
       "default": "Squad server Stats for the Last 30 days.",
-      "translated": ""
+      "translated": "Squad Estatísticas do servidor - Últimos 30 dias."
     },
     "3": {
       "default": "Squad server Stats for the Last 7 days.",
-      "translated": ""
+      "translated": "Squad Estatísticas do servidor - Últimos 7 dias."
     },
     "4": {
       "default": "Squad server Stats for the Last 24h.",
-      "translated": ""
+      "translated": "Squad Estatísticas do servidor - Últimos 24 horas."
     },
     "5": {
       "default": "Server kill Stats",
-      "translated": ""
+      "translated": "Estatísticas do servidor Morte Inimiga"
     },
     "6": {
       "default": "Total Kills",
-      "translated": ""
+      "translated": "Total de Mortes Inimigas"
     },
     "7": {
       "default": "Total Deaths",
-      "translated": ""
+      "translated": "Total de Mortes"
     },
     "8": {
       "default": "Total Wounds",
-      "translated": ""
+      "translated": "Total de Danos"
     },
     "9": {
       "default": "Teamplayer Stats",
-      "translated": ""
+      "translated": "Estatísticas Equipe"
     },
     "10": {
       "default": "Teamkills",
-      "translated": ""
+      "translated": "Mortes Inimiga por Equipe"
     },
     "11": {
       "default": "Total Revives",
-      "translated": ""
+      "translated": "Total Reanimado"
     },
     "12": {
       "default": "Knifekills",
-      "translated": ""
+      "translated": "Mortes Inimiga por Faca"
     },
     "13": {
       "default": "Favorites",
-      "translated": ""
+      "translated": "Favoritos"
     },
     "14": {
       "default": "Favorite Weapon",
-      "translated": ""
+      "translated": "Arma Favorita"
     },
     "15": {
       "default": "Favorite Map",
-      "translated": ""
+      "translated": "Mapa Favorita"
     },
     "16": {
       "default": "Top Victim / Top Nemesis",
-      "translated": ""
+      "translated": " Melhor Vitima / Melhor Nemesis"
     },
     "17": {
       "default": "Top Revive / Top Revived",
-      "translated": ""
+      "translated": "Melhor Reanimado / Melhor Reanimador"
     },
     "18": {
       "default": "Want more information on player stats?",
-      "translated": ""
+      "translated": "Deseja obter mais informações sobre as estatísticas dos jogadores?"
     },
     "19": {
       "default": "Use {command}",
-      "translated": ""
+      "translated": "Use {comando}"
     },
     "20": {
       "default": "Unknown",
-      "translated": ""
+      "translated": "Desconhecido"
     },
     "21": {
       "default": "is killed {counter} times",
